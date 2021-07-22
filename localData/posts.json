@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "redux",
+        "content": "redux-toolkit"
+    },{
+        "id": 2,
+        "title": "redux1",
+        "content": "redux-toolkit2"
+    }
+
+]
