@@ -13,7 +13,7 @@ function User() {
   const CreateUser = () => {
     dispatch(
       createUser({
-        id: Math.random(),
+        id: Math.floor(Math.random() * 10),
         name: user.name,
         username: user.username,
       })
